@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/gburrows/ContosoAir/_apis/build/status/gburrows33.ContosoAir?branchName=master)](https://dev.azure.com/gburrows/ContosoAir/_build/latest?definitionId=32&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 [![Build Status](https://dev.azure.com/gburrows0001/Github%20Integration/_apis/build/status/gburrows33.ContosoAir?branchName=master)](https://dev.azure.com/gburrows0001/Github%20Integration/_build/latest?definitionId=13&branchName=master)
